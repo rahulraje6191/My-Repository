@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 test
+=======
+hikjgiyggggjgjgjjgjgjjjvfuvgjm
+>>>>>>> e4cd663 (first)
